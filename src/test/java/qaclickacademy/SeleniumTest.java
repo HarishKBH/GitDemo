@@ -28,4 +28,16 @@ public class SeleniumTest {
 		System.out.println("elementsUi");	
 	}
 	
+	
+	@Test
+	public void BrowserAUtomaastionsss()
+	{
+		System.out.println("BrowserAUtomation");	
+	}
+	@Test
+	public void ass()
+	{
+		System.out.println("elementsUi");	
+	}
+	
 }
